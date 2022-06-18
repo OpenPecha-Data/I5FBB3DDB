@@ -1,0 +1,36 @@
+id: I5FBB3DDB
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:04:34.118041'
+last_modified: '2022-06-18T20:04:34.118054'
+parser: null
+source_metadata:
+  title: Tsong kha pas Essence of True Eloquence (block print), colophon excerpt
+  author: ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-07-23); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:བློ་བཟང་རྒྱལ་མཚན། (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/4867
+  bases:
+    e598:
+      title: Tsong kha pas Essence of True Eloquence (block print), colophon excerpt
+      order: 1
+      base_file: e598.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
